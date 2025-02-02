@@ -5,7 +5,7 @@ fun main() {
     val n = readLine()?.toIntOrNull() ?: 0
 
     if (n <= 0) {
-        println("Please enter a valid positive integer.")
+        println("Please enter a valid integer number .")
         return
     }
 
