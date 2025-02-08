@@ -1,3 +1,6 @@
+/* Write a Kotlin program that takes an integer n as input and uses
+a for loop to print the multiplication table of n up to 10.*/
+
 fun main()
 {
     println("Enter a number: ")
